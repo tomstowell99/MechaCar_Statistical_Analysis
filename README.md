@@ -31,4 +31,32 @@ significantly higher than our quality variation of 100 PSI allows.
 
 ![](https://github.com/tomstowell99/MechaCar_Statistical_Analysis/blob/main/images/Delivarable2%20Total%20Summary%20Group.PNG)
 
+### T-Tests on Suspension Coils
+
+![](https://github.com/tomstowell99/MechaCar_Statistical_Analysis/blob/main/images/Deliverable%203%20All.PNG)
+
+When we review the PSI results across all of the manufacturing lots. We see that the PSI for all lots is not statistically different from the 
+the population and that the P-value is greater than .05. 
+
+![](https://github.com/tomstowell99/MechaCar_Statistical_Analysis/blob/main/images/Deliverable%203%20Lot1.PNG)
+
+When we review lot1. We can see that the Lot1 is not statistically different from the population of all the coils produced. In addition the 
+p-value is not low enough to reject our null hypothesis (1).
+
+![](https://github.com/tomstowell99/MechaCar_Statistical_Analysis/blob/main/images/Deliverable%203%20Lot2.PNG)
+
+When we review lot2. We can see that the Lot1 is not statistically different from the population of all the coils produced. In addition the 
+p-value is not low enough to reject our null hypothesis (.607).
+
+![](https://github.com/tomstowell99/MechaCar_Statistical_Analysis/blob/main/images/Deliverable%203%20Lot3.PNG)
+
+Lot3 we can see where the mean of the coils in this lot is diffenent than the population mean. In addition the p-value of .04168 indicates that we can 
+reject the null hypothesis and our average PSI is differnt that 1500. Lot3 should be reviewed to see what variables went into the production.
+
+
+
+
+
+
+
   
