@@ -54,6 +54,29 @@ Lot3 we can see where the mean of the coils in this lot is diffenent than the po
 reject the null hypothesis and our average PSI is differnt that 1500. Lot3 should be reviewed to see what variables went into the production.
 
 
+## Study Design: MechaCar vs Competition
+
+Study to compare MechaCar versus the competition. Customers take many variables into consideration when purchasing a vehical. MPG is only one of several. Safety, 
+Fuel type, cost and performance to name a few. I will focus on the safety aspect of the MechaCar versus the competition.
+
+### what metrics to test.
+   We will test:
+   * Safety, using the Consumer Reports 5 star scale.
+   * Price
+   * Sales Quanity
+
+### The Null Hypothesis
+This study will disprove the null Hypothesis and show that consumers are will to pay extra for safety features in vehicals.
+
+### Statistical test performed.
+I would perform regression. Sales quanity will be dependent on Price and Safety. I realize there may be a strong relation between price and sales
+but I believe we will be able to show that Safety will have a significant impact as well.
+
+### Data needed.
+   * Data will be pared down to 2020 data
+   * consumer reports overall safety rating per vehicle.
+   * Sales quanity by vehicle "New car only".
+   * Average new car sales price.
 
 
 
